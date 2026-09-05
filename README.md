@@ -1,4 +1,4 @@
-# Dashboard Analisis Data Toy Store E-Commerce (Maven Analytics) 🧸
+# Analisis Data Toy Store E-Commerce (Maven Analytics) 🧸
 
 ## 📌 Daftar Isi
 
