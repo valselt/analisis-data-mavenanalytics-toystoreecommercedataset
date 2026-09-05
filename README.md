@@ -4,12 +4,16 @@
 
 - [📌 Deskripsi Proyek](#-deskripsi-proyek)
 - [🎯 Pertanyaan Bisnis](#-pertanyaan-bisnis)
-- [📊 Dataset](#-dataset)
-- [📝 Kesimpulan](#-kesimpulan)
   - [Pertanyaan 1](#pertanyaan-1)
   - [Pertanyaan 2](#pertanyaan-2)
   - [Pertanyaan 3](#pertanyaan-3)
   - [Pertanyaan 4](#pertanyaan-4)
+- [📊 Dataset](#-dataset)
+- [📝 Kesimpulan](#-kesimpulan)
+  - [Pertanyaan 1](#pertanyaan-1-1)
+  - [Pertanyaan 2](#pertanyaan-2-2)
+  - [Pertanyaan 3](#pertanyaan-3-3)
+  - [Pertanyaan 4](#pertanyaan-4-4)
 - [🪜 Rekomendasi Action Item](#-rekomendasi-action-item)       
 
 ## 📌 Deskripsi Proyek
